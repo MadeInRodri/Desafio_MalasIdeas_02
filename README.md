@@ -9,6 +9,9 @@ En esta actividad presentaremos nuestras soluciones a los problemas presentados 
 - André Emanuel Preza Deraz PD230540
 - Valeria Liseth Paredes Lara PL230400
 
+## Enlace del video:
+https://youtu.be/iwDIb-v1XuE
+
 ## Resumen General del Plan de Red:
 
 Para resolver las limitaciones del modo NAT—como el aislamiento de las máquinas virtuales, la asignación de IPs no reconocidas por la empresa y la complejidad del reenvío de puertos (Port Forwarding)—se propone migrar la infraestructura virtual de desarrollo de InnovaCloud Solutions al modo Adaptador Puente (Bridged Adapter). A diferencia del modo NAT o de Red Interna, la configuración en puente permite que cada máquina virtual obtenga su propia identidad dentro de la red física corporativa, habilitando la comunicación bidireccional directa entre desarrolladores, servicios y otras VMs con acceso continuo a Internet. Para garantizar la estabilidad de los entornos de trabajo y evitar cambios dinámicos de dirección, el plan de acción contempla la asignación manual de una IP IPv4 estática, la configuración de la puerta de enlace predeterminada y la definición de servidores DNS mediante Netplan en el sistema operativo Linux Ubuntu Server, seguido de la correspondiente validación de conectividad.

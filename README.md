@@ -2,7 +2,7 @@
 
 En esta actividad presentaremos nuestras soluciones a los problemas presentados en el documento sobre InnovaCloud Solutions.
 
-## Integrantes:
+## Equipo Malas Ideas, Integrantes:
 
 - Rodrigo Alexis Mejía Rivas MR230247
 - Leonardo Enrique Flores Coto FC230433
